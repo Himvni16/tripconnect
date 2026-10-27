@@ -1,3 +1,8 @@
+## TripConnect — Demo Access
+
+- Admin dashboard URLhttps://your-project.vercel.app/admin
+
+
 # TripConnect — School Trip Interest
 
 A small Next.js App Router + Supabase starter for collecting teacher's interest in three sample educational trips and reviewing submissions behind Supabase email/password login.
@@ -35,10 +40,8 @@ A small Next.js App Router + Supabase starter for collecting teacher's interest 
 
 ## What I Would Add Next
 
-- Teacher confirmations: Send an email confirming that a trip interest has been submitted successfully.
-- Better admin tools: Add search, date-range filters, and CSV export to make submissions easier to manage.
-- Improved security: Introduce rate limiting and CAPTCHA to reduce spam submissions.
-- Automated testing: Add tests for form validation, database submissions, and administrator access controls.
+- Email confirmations: Send teachers a confirmation email after they submit interest, with a summary of their selected trip and next steps.  
+- Trip management: Let administrators create, update, archive, and publish trips from the dashboard instead of defining them in code.
 
 
 ## AI tools used
