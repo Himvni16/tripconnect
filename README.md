@@ -1,3 +1,9 @@
+## TripConnect — Demo Access
+
+Admin dashboard URL: https://tripconnect-alpha.vercel.app/
+demo Admin email: admin@example.com
+Demo password: test@example
+
 # TripConnect — School Trip Interest
 
 A small Next.js App Router + Supabase starter for collecting teacher's interest in three sample educational trips and reviewing submissions behind Supabase email/password login.
