@@ -1,8 +1,8 @@
 ## TripConnect — Demo Access
 
-Admin dashboard URL: https://tripconnect-alpha.vercel.app/
-demo Admin email: admin@example.com
-Demo password: test@example
+- Admin dashboard URL: https://tripconnect-alpha.vercel.app/
+- demo Admin email: admin@example.com
+- Demo password: test@example
 
 # TripConnect — School Trip Interest
 
