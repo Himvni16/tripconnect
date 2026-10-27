@@ -1,6 +1,6 @@
 ## TripConnect — Demo Access
 
-Admin dashboard URL: https://tripconnect-alpha.vercel.app/
+Live Demo link: https://tripconnect-alpha.vercel.app/
 
 
 # TripConnect — School Trip Interest
